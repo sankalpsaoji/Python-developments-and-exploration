@@ -5,3 +5,5 @@
 
 2] Text to speech conversion using pyttsx3 package
 
+3] Using Pywhatkit package in python for sending whatapp msgs, using google search and playing youtube videos.
+
