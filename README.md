@@ -7,3 +7,4 @@
 
 3] Using Pywhatkit package in python for sending whatapp msgs, using google search and playing youtube videos.
 
+4] QR code generator for websites
